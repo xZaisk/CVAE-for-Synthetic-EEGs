@@ -30,23 +30,6 @@ project_root/
 └── README.md                 # Project documentation
 ```
 
-## Prerequisites
-
-### Hardware Requirements
-- a gpu (preferrably a good one)
-- 16 gb 
-
-### Software Dependencies
-- Python 3.8+
-- libraries:
-  - numpy
-  - scipy
-  - matplotlib
-  - scikit-learn
-  - torch
-  - MNE-Python
-  - Braindecode
-
 ### how to install
 
 1. Clone the repository:
